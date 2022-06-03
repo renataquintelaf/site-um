@@ -13,7 +13,7 @@ import FooterComp from "@/components/template/FooterComp.vue";
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap");
 
 #app {
-  max-width: 1280px;
+  max-width: 1200px;
   margin: 0 auto;
   height: 100vh;
   font-weight: normal;
@@ -26,7 +26,7 @@ import FooterComp from "@/components/template/FooterComp.vue";
 main {
   height: 80%;
 }
-
+ 
 a {
   color: inherit;
   text-decoration: none;

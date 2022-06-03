@@ -1,3 +1,6 @@
 <template>
-  <main><h1>Bem Vindo</h1></main>
+  <main><h1>Alegria</h1></main>
 </template>
+
+<style>
+</style>
